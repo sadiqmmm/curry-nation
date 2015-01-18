@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  cooking_time: MyString
+  difficulty_level: MyString
+  food_type_id: 
+  food_preference_id: 
+  cuisine_id: 
+  ingredients: MyText
+  procedure: MyText
+
+two:
+  title: MyString
+  cooking_time: MyString
+  difficulty_level: MyString
+  food_type_id: 
+  food_preference_id: 
+  cuisine_id: 
+  ingredients: MyText
+  procedure: MyText
